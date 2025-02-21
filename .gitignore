@@ -1,3 +1,9 @@
 output/*
 input/*
 model/*
+logs/*
+data/*
+*.pyc
+.DS_Store
+__pycache__/
+*.log

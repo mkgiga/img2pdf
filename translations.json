@@ -1,0 +1,34 @@
+{
+    "sv": {
+        "tab_process": "Bearbeta",
+        "tab_help": "Hjälp",
+        "table_input_files.lbl_title": "Inmatningsfiler",
+        "table_input_files.col_file_path": "Sökväg",
+        "table_input_files.col_file_name": "Filnamn",
+        "table_input_files.col_file_size": "Filstorlek",
+        "table_input_files.btn_browse": "Bläddra",
+        "table_input_files.btn_clear": "Rensa",
+        "table_output_files.lbl_title": "Utdata katalog",
+        "table_output_files.col_file_name": "Filnamn",
+        "table_output_files.col_file_size": "Filstorlek",
+        "table_output_files.btn_choose_dir": "...",
+        "btn_process": "➡",
+        "help_tab.help_label": "Instruktioner:\n\n1. **Inmatningsfiler:** Klicka på 'Bläddra' för att välja bildfiler eller en katalog.\n2. **Utdata katalog:** Klicka på '...' bredvid utdatasökvägen för att välja var PDF-filerna ska sparas. Standard är './output'.\n3. **Bearbeta:** Klicka på pilknappen (➡) för att starta konverteringen.\n4. **Progress Bar:** Visar konverteringens framsteg.\n\nDetta program använder EasyOCR för att extrahera text från bilder och skapar sökbara PDF-filer."
+    },
+    "en": {
+        "tab_process": "Process",
+        "tab_help": "Help",
+        "table_input_files.lbl_title": "Input files",
+        "table_input_files.col_file_path": "Path",
+        "table_input_files.col_file_name": "File name",
+        "table_input_files.col_file_size": "Size",
+        "table_input_files.btn_browse": "Browse",
+        "table_input_files.btn_clear": "Clear",
+        "table_output_files.lbl_title": "Output directory",
+        "table_output_files.col_file_name": "File name",
+        "table_output_files.col_file_size": "Size",
+        "table_output_files.btn_choose_dir": "...",
+        "btn_process": "➡",
+        "help_tab.help_label": "Instructions:\n\n1. **Input Files:**  Click 'Browse' to select image files or a directory.\n2. **Output Directory:**  Click '...' next to the output path to choose where the PDFs will be saved.  The default is './output'.\n3. **Process:**  Click the arrow button (➡) to start the conversion.\n4. **Progress Bar:**  Shows the progress of the conversion.\n\nThis program uses EasyOCR to extract text from images and creates searchable PDFs."
+    }
+}
